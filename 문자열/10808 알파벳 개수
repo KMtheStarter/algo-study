@@ -7,7 +7,6 @@ int main(){
     string S;
     int index = 0;
     cin >> S;
-    int size = S.size();
     for (int i = 'a'; i <= 'z'; i++){
         cout << count(S.begin(), S.end(), i) << ' ';
     }
