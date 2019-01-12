@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 
 // 전역변수로 선언된 배열은 자동으로 0으로 초기화 되어있음
